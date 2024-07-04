@@ -4,7 +4,7 @@
         <p class="descripcion-pagina">Su Cuenta fue Registrada</p>
 
     </div> <!--.contenedor-sm -->
-    <div class="acciones">
+    <div class="boton">
             <a href="/">Iniciar Sesión</a>
         </div>
 
